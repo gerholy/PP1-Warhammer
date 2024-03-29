@@ -50,3 +50,12 @@ padding: 0;
 
 
 }
+
+
+.h2 {
+display: grid;
+grid-template-columns: auto;
+height: auto ;
+padding: 0;
+
+}
