@@ -14,4 +14,5 @@ For the text type i went with [Times New Roman] i like it nice and casual.
 For the backgrounds i went with the Nav bar color  rgb(163, 158, 114 ah lighter kinda gold one , cause of the background i use has alot of gold white and red in it , so think it matches verry well.
 
 
-Nav bar A i went with [8, 8, 8, 0.904] Dark verry dark , also again cause of the background it melts in verry well in my opinion.  
+Nav bar A i went with [**8, 8, 8, 0.904**] Dark verry dark , also again cause of the background it melts in verry well in my opinion.  
+
