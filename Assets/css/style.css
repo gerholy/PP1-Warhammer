@@ -20,10 +20,9 @@ padding: 0rem calc ((100vw - 1300px) / 2);
 
 .logo {
 color: black
-font-size: 1.5rem;
-font-weight: bold;
-font-style: italic;
-padding: 0 2rem;
+font-weight: content
+font-style:italic
+padding: 0 2rem
 
 }
 
